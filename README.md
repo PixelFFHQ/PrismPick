@@ -1,9 +1,3 @@
-## Download
-
-[Download the latest PrismPick release](https://github.com/PixelFFHQ/PrismPick/releases/latest)
-
-PrismPick currently requires a source-built Vencord installation.
-
 # PrismPick
 
 A Vencord wallpaper picker by **PixelFF**.
@@ -11,6 +5,14 @@ A Vencord wallpaper picker by **PixelFF**.
 PrismPick lets you browse and apply Discord wallpapers directly from Vencord using a GitHub-hosted image library.
 
 It is designed to pair with **PrismPane**, but can also work with compatible third-party themes or in its standalone Universal Mode.
+
+---
+
+## Download
+
+[Download the latest PrismPick release](https://github.com/PixelFFHQ/PrismPick/releases/latest)
+
+PrismPick currently requires a source-built Vencord installation.
 
 ---
 
