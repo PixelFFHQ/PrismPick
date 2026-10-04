@@ -1,9 +1,18 @@
 /*
  * PrismPick
+ * Copyright (c) 2026 Hush / PixelFF
  *
- * A Vencord user plugin for selecting Discord background images from a
- * GitHub-hosted image library.
+ * Source:
+ * https://github.com/PixelFFHQ/PrismPick
  *
+ * Licensed under the Mozilla Public License 2.0.
+ * https://mozilla.org/MPL/2.0/
+ *
+ * A Vencord user plugin for browsing and applying Discord wallpapers
+ * from GitHub-hosted image libraries.
+ */
+
+/*
  * Supports two modes:
  *
  * 1. Theme Variable Mode
