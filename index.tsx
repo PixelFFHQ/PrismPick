@@ -910,10 +910,6 @@ export default definePlugin({
     description:
     "Pick and apply Discord wallpapers from a GitHub-hosted image library. Designed to pair with PrismPane and compatible custom themes.",
 
-    /*
-     * Replace id: 0n with the actual Discord user ID before public release
-     * if desired.
-     */
     authors: [
         {
             name: "Hush",
