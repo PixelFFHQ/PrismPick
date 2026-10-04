@@ -917,7 +917,7 @@ export default definePlugin({
     authors: [
         {
             name: "Hush",
-            id: 0n
+            id: 1032097661203005493n
         }
     ],
 
