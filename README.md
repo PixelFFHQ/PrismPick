@@ -1,3 +1,9 @@
+## Download
+
+[Download the latest PrismPick release](https://github.com/PixelFFHQ/PrismPick/releases/latest)
+
+PrismPick currently requires a source-built Vencord installation.
+
 # PrismPick
 
 A Vencord wallpaper picker by **PixelFF**.
