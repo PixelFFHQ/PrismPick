@@ -378,7 +378,9 @@ Please open an issue if you encounter a reproducible problem.
 
 ## Screenshots
 
-Screenshots coming soon.
+### PrismPick Settings and Wallpaper Gallery
+
+![PrismPick Settings](screenshots/PrismPick-Settings.png)
 
 ---
 
